@@ -27,3 +27,7 @@ Ensure the correct dataset and configurations are loaded before execution.
 
 Competition Link: [Kaggle Competition Page](https://www.kaggle.com/c/um-game-playing-strength-of-mcts-variants)
 Team Name: Meowfitting (Ranked 38th out of 1608 teams on Private Leaderboard)
+
+## **Developers:**
+### Hasen Özaytürk - https://github.com/hasenoz
+### Emre Kafa - https://github.com/ermekfaa
